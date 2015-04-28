@@ -1,5 +1,7 @@
 This is just my git cheat sheet.
 
+
+...
 NEW REPO:
 pico README.md
 git init
@@ -21,4 +23,4 @@ MERGE BRANCH:
 git checkout master
 git merge logging
 git push -u origin master
-
+...
